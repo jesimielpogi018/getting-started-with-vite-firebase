@@ -1,1 +1,1 @@
-# getting-started-with-vite-firebase
+# A repository for practicing and learning stuff on firebase services
